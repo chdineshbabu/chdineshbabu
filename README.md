@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/chdines95141791" target="blank"><img src="https://img.shields.io/twitter/follow/chdines95141791?logo=twitter&style=for-the-badge" alt="chdines95141791" /></a> </p>
 
-- 🔭 I’m currently working on **cryptoPay**
+- 🔭 I’m currently working on **MetaLearn(A blockchain based course learning platform)**
 
-- 🌱 I’m currently learning **Blockchain,solidity,subgraphs,etc..,**
+- 🌱 I’m currently learning **Blockchain,solidity,Next.js,subgraphs,etc..,**
 
-- 👯 I’m looking to collaborate on **cryptoLottery**
+- 👯 I’m looking to collaborate on **MetaLearn**
 
-- 🤝 I’m looking for help with **Solidity and ethers js**
+- 🤝 I’m looking for help with **HyperLeadger**
 
 - 👨‍💻 All of my projects are available at [https://portflio-chi.vercel.app/](https://portflio-chi.vercel.app/)
 
-- 💬 Ask me about **React,Next,tailwind,solidity,node js,mongo DB,firebase,Express js,**
+- 💬 Ask me about **React,Next,tailwind,solidity,node js,mongo DB,firebase,Express js,etc,..**
 
 - 📫 How to reach me **chdinesh4128@gmail.com**
 
