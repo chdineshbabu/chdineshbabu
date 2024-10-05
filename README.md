@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chdineshbabu&label=Profile%20views&color=0e75b6&style=flat" alt="chdineshbabu" /> </p>
 
-- 🌱 I’m currently learning **Solana and Devops**
+- 🌱 I’m currently learning **Blockchain and Devops**
 
-- 👨‍💻 All of my projects are available at [https://dineshbabudev.vercel.app/](https://dineshbabudev.vercel.app/)
-
-- 💬 Ask me about **React, Blockchain and DevOps**
+- 👨‍💻 All of my projects are available at [Portfolio](https://dineshbabudev.vercel.app/)
 
 - 📫 How to reach me **chdinesh4128@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oaqENrqKdB07KpNqcjNhQze8_4gXleDv/view?usp=drive_link](https://drive.google.com/file/d/1oaqENrqKdB07KpNqcjNhQze8_4gXleDv/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oaqENrqKdB07KpNqcjNhQze8_4gXleDv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
