@@ -20,7 +20,7 @@
 ### **Backend**:
 - 🖥️ **Node.js**, **Express**
 - 🗄️ **MongoDB**, **PostgreSQL**
-- 🛠️ **Web3.js**, **Solidity**
+- 🛠️ **Web3.js**, **Solidity**, **Rust**
 
 ### **Blockchain**:
 - ⛓️ **Ethereum**, **Solana**, **Hardhat**, **Truffle**
